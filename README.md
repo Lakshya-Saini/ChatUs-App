@@ -45,7 +45,7 @@ It is an ongoing project, more features will be added in upcoming versions.
 1. Clone this repository or simply download all files.
 
 ```
-git clone https://github.com/Lakshya-Saini/ChatUs.git
+git clone https://github.com/Lakshya-Saini/ChatUs-App.git
 ```
 
 2. Install dependencies in root (server) and in client as well
